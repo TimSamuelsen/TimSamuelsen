@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align="center">Hello world 👋 I'm Tim Samuelsen</h3>
+<p align="center">
+  <a href="https://www.timsamuelsen.com">Website</a> •
+  <a href="https://www.linkedin.com/in/timsamuelsen/">LinkedIn</a>
+</p>
+
+---
+I'm an MSME student at Stanford University, specializing in mechatronics and 
+smart product design. Full stack application and embedded systems developer 
+for advanced CLIP 3D printers at the DeSimone Research Group. 
 
 <!--
 **TimSamuelsen/TimSamuelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
