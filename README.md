@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm an MSME student at Stanford University, specializing in mechatronics and 
+I'm an MS in Mechanical Engineering student at Stanford University, specializing in mechatronics and 
 smart product design. Full stack application and embedded systems developer 
 for advanced CLIP 3D printers at the DeSimone Research Group. 
 
