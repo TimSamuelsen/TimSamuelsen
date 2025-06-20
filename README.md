@@ -1,13 +1,11 @@
-<h3 align="center">Hello world 👋 I'm Tim Samuelsen</h3>
+<h3 align="center">Tim Samuelsen</h3>
 <p align="center">
   <a href="https://www.timsamuelsen.com">Website</a> •
   <a href="https://www.linkedin.com/in/timsamuelsen/">LinkedIn</a>
 </p>
 
 ---
-I'm a MS in Mechanical Engineering graduate student at Stanford University, specializing in mechatronics and 
-smart product design. Application and embedded systems developer 
-for advanced CLIP 3D printers at the DeSimone Research Group. 
+Staff Software Engineer at Carbon, building scalable software systems for automation and device reliability. Previously a graduate student researcher at Stanford, developing software for cutting-edge 3D printing research.
 
 <!--
 **TimSamuelsen/TimSamuelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
